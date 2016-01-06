@@ -1,0 +1,16 @@
+{
+  "name": "exe1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "bode index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pn": "^1.0.0",
+    "songbird": "^1.0.1",
+    "yargs": "^3.31.0"
+  }
+}
